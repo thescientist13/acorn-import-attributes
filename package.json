@@ -1,0 +1,19 @@
+{
+  "name": "acorn-import-attributes",
+  "version": "1.0.0",
+  "description": "Demonstration repo for testing import attributes support in acorn.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Owen Buckley <owen@thegreenhouse.io",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thescientist13/acorn-import-attributes.git"
+  },
+  "scripts": {
+    "demo": "node ."
+  },
+  "dependencies": {
+    "acorn": "^8.11.3"
+  }
+}
